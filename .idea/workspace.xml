@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5782296f-3277-418f-a242-34384d2bd9dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XwD8BQ6WiQ56j0z9AYeTrV8v3p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\ForFun\2001_PythonSimpleTrying\2002_libmanage_3_pycharm" />
+      <recent name="D:\Project\ForFun\2001_PythonSimpleTrying\2002_libmanage_3_pycharm\usrFunc" />
+      <recent name="D:\Project\ForFun\2001_PythonSimpleTrying\2002_libmanage_3_pycharm\admFunc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2002_libmanage_3_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5782296f-3277-418f-a242-34384d2bd9dd" name="Default Changelist" comment="" />
+      <created>1581948101588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581948101588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1581999568277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581999568277" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1583283599862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599862" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1583283599862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599862" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1583283599861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599861" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1583283599862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599862" />
+    <state width="1899" height="217" key="GridCell.Tab.1.bottom" timestamp="1583283599736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="217" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599736" />
+    <state width="1899" height="217" key="GridCell.Tab.1.center" timestamp="1583283599735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="217" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599735" />
+    <state width="1899" height="217" key="GridCell.Tab.1.left" timestamp="1583283599735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="217" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599735" />
+    <state width="1899" height="217" key="GridCell.Tab.1.right" timestamp="1583283599735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="217" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583283599735" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1581999766312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581999766312" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1582108880386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582108880386" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582000238480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582000238480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
